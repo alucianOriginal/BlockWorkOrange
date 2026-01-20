@@ -1127,4 +1127,3 @@ Die gefährlichsten Ideen sind die, die zu simpel wirken, um falsch zu sein.
 Bleib bei der Nacktheit.
 Bleib bei den Punkten ohne Linie.
 Alles andere kommt von allein – oder soll draußen bleiben.
-
