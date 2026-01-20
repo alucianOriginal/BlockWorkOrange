@@ -1,7 +1,7 @@
 # BlockWorkOrange
 This is the Workspace Programm for our Development of all the other Programms to clear out a singel Standart and perfect Workflow
 
-
+BlockWorkOrange wird die digitalen Arbeitsprozesse Verdichten und Zusammenfuegen, sowie dem einzelnem Arbeitsprozess in desssen Ausfuehrung maximale Freiheit durch individuell einstellbare Oberflaechen und Arbeitsforgaenge gewaehrleisten. Es wird ein Messsystem nach wissenschaftlichen Standarts auf die einfachsten Grundstrukturen herunter gebrochen und entsprechend modular anpassbar nach außen hin auf ausschließlich offenen Standarts hin die Moeglichkeiten bieten die bestehenden Arbeitssysteme zu erweitern und zu optimieren, aber im Kern ihre Ansprueche nicht Veraendern.
 
 XAIGPUARC-Ökosystem: Übersicht
 1. Kern-Installations- und Systemtools
